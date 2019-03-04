@@ -491,7 +491,6 @@ input:-webkit-autofill:focus {
     background-position: bottom -120px center;
     background-repeat: no-repeat;
     background-size: auto 94%;
-    margin-bottom: 142px;
 }
 
 .feature-area .page-title .title {
@@ -719,7 +718,6 @@ input:-webkit-autofill:focus {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    margin-top: 70px;
     margin-bottom: 100px;
     color: #ffffff;
 }
